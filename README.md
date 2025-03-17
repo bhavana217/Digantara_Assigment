@@ -4,7 +4,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/bhavana217/Digantara_Assigment.git
    cd digantara
 Create and activate a virtual environment:
 
